@@ -1,0 +1,2 @@
+# eza
+Ingin belajar termux
